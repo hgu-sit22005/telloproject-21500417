@@ -19,5 +19,5 @@ Forward::Forward(int _value)
 
 double Forward::get_delay()
 { 
-	return 5; 
+	return 3; 
 }

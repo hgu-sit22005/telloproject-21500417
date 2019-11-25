@@ -19,5 +19,5 @@ Down::Down(int _value)
 
 double Down::get_delay()
 { 
-	return 5; 
+	return 3; 
 }

@@ -19,5 +19,5 @@ Cw::Cw(int _value)
 
 double Cw::get_delay()
 { 
-	return 5; 
+	return 3; 
 }

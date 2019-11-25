@@ -19,5 +19,5 @@ Back::Back(int _value)
 
 double Back::get_delay()
 { 
-	return 5; 
+	return 3; 
 }
