@@ -16,6 +16,7 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ../bin)
 add_library(TelloPro MODULE src/takeoff.cpp
 							src/land.cpp
 							src/up.cpp
+							src/down.cpp
 							src/flip.cpp
 							src/left.cpp
 							src/right.cpp

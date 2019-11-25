@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/TelloPro.dir/src/takeoff.cpp.o"
   "CMakeFiles/TelloPro.dir/src/land.cpp.o"
   "CMakeFiles/TelloPro.dir/src/up.cpp.o"
+  "CMakeFiles/TelloPro.dir/src/down.cpp.o"
   "CMakeFiles/TelloPro.dir/src/flip.cpp.o"
   "CMakeFiles/TelloPro.dir/src/left.cpp.o"
   "CMakeFiles/TelloPro.dir/src/right.cpp.o"

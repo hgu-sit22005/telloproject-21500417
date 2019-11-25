@@ -4,8 +4,8 @@
 
 Flip::Flip()
 {
-	command = new char[strlen("Down 20")+1];
-	strcpy(command, "Down 20");
+	command = new char[strlen("flip 20")+1];
+	strcpy(command, "flip 20");
 }
 
 Flip::Flip(int _value)

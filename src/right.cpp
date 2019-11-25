@@ -4,14 +4,14 @@
 
 Right::Right()
 {
-	command = new char[strlen("Right 20")+1];
-	strcpy(command, "Right 20");
+	command = new char[strlen("right 20")+1];
+	strcpy(command, "right 20");
 }
 
 Right::Right(int _value)
 {
 	std::stringstream sstream;
-	sstream<<"Right "<<_value;
+	sstream<<"right "<<_value;
 
 	command = new char[strlen(sstream.str().c_str())+1];
 	strcpy(command, sstream.str().c_str());
